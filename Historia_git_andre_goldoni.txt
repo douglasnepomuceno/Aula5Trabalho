@@ -1,0 +1,6 @@
+Quem inventou o sistema de controle de versão Git e por quê?
+Tom Preston Warner
+Quem atualmente é o dono do Github e por quê?
+Microsoft 7,5 b
+Existe outra maneira, além do terminal, de trabalhar com o Github?
+Sim
