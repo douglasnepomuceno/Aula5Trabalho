@@ -1,0 +1,88 @@
+
+
+#Cria o diretorio DH
+mkdir DH
+
+#Entra no diretorio DH 
+cd DH
+
+#Cria o diretorio
+mkdir integracao_aula_1e2
+
+cd integracao_aula_1e2
+
+#Cria o diretorio
+mkdir historia_da_contabilidade
+#Cria o diretorio
+mkdir o_que_faremos_hoje
+#Cria o diretorio
+mkdir servidores
+#Cria o diretorio
+mkdir interfaces_de_usuario
+#Cria o diretorio
+mkdir infraestrutura
+
+#Entra no diretorio
+cd historia_da_contabilidade
+
+#Cria o arquivo 
+touch resumo.txt
+#Retorna um nivel do diretorio
+cd ..
+#Entra no diretorio
+cd o_que_faremos_hoje
+
+#Cria o arquivo 
+touch resumo.txt
+
+#Retorna um nivel do diretorio
+cd ..
+#Entra no diretorio
+cd servidores
+
+#Cria o arquivo 
+touch resumo.txt
+
+#Retorna um nivel do diretorio
+cd ..
+#Entra no diretorio
+cd interfaces_de_usuario
+
+#Cria o arquivo 
+touch resumo.txt
+
+#Retorna um nivel do diretorio
+cd ..
+#Entra no diretorio
+cd infraestrutura
+
+#Cria o arquivo 
+touch resumo.txt
+
+
+git init
+Este comando é usado para criar um novo repositório GIT. Local
+
+git add
+O comando git add pode ser usado para adicionar arquivos ao índice do git local 
+
+git clone
+O comando git clone clona um repositorio para maquina local 
+
+git commit
+O comando git commit é usado para confirmar as alterações feitas nos arquivos
+
+
+git status
+O comando git status exibe a lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados a camada de stage
+
+git status
+
+git push Envia as alterações feitas para o ramo/brach repositório remoto associado ao diretório de trabalho
+
+Exemplo
+git push origin master
+
+git checkout
+O comando git checkout pode ser usado para criar ramos/branch 
+
