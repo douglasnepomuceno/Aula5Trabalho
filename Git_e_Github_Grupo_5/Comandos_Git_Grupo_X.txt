@@ -86,3 +86,27 @@ git push origin master
 git checkout
 O comando git checkout pode ser usado para criar ramos/branch 
 
+Felipe Martins
+    pdw: Mostra o repositório no qual estou localizado;
+    ls: Lista os arquivos e repositórios atuais;
+    cd: Entra no diretório especificado;
+    mkdir: Cria um repositório
+    touch: Cria um arquivo;
+    vi: Abre o editor de texto do GitBash;
+    exit: Fecha o GitBash;
+    git --version: Mostra a versão atual do GitBash;
+    git status: Mostra o status do commit atual;
+    git add: Adiciona os arquivos ao commt;
+    git commit -m "meu primeiro commit": Commita os arquivos;
+    clear: Limpa a tela do GitBash;
+    git init: Inicia o repositório;
+    rm -r: Exlui um arquivo;
+    git config user.name: Configura seu user name no Git;
+    git config user.email: Configura seu e-mail no Git;
+    git remote add origin <link>: Adiciona um repositório remoto;
+    git push origin main: Envia os arquivos para o repositório remoto;
+    git clone <link>: Clona um repositório remoto;
+    git branch: Mostra as branchs disponíveis;
+    git checkout <branch name>: Entra na branch especificada;
+    git pull: Baixa os arquivos do repositório remoto;
+    code: Abre o código especificado.
